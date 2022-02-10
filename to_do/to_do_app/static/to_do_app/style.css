@@ -1,0 +1,12 @@
+{% load static %}
+.card{
+    margin-bottom: 10px;
+}
+
+h3{
+    padding: 10px 0px 10px;
+}
+
+.btn{
+    margin-right: 5px;
+}
