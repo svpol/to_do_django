@@ -1,2 +1,2 @@
 # to_do
- A simple to do app made for studying purpose
+ A simple Django to do app made for studying purpose.
